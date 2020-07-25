@@ -47,6 +47,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Swagger Documentation
+
+http://localhost:3000/docs
+
 ## Test
 
 ```bash
